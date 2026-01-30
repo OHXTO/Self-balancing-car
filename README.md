@@ -6,9 +6,9 @@ A two-wheel self-balancing robot built for a beginner design course (Jan–May 2
 <img src="Robot.jpg" width="200" alt="Robot photo"/>
 
 [▶️ Watch the Demo](https://github.com/OHXTO/Self-balancing-car/blob/main/assets/demo.mp4)
+<br><br>
+## Open House Posts
 
-
-- Open House Posts
 <img src="Open_House_Post.jpg" width="1000"/>
 
 ## What this project does
