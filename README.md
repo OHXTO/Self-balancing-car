@@ -3,13 +3,13 @@ A two-wheel self-balancing robot built for a beginner design course (Jan–May 2
 
 ## Demo
 
-<img src="Robot.jpg" width="200" alt="Robot photo"/>
+<img src="assets/Robot.jpg" width="200" alt="Robot photo"/>
 
 [▶️ Watch the Demo](https://github.com/OHXTO/Self-balancing-car/blob/main/assets/demo.mp4)
 <br><br>
 ## Open House Posts
 
-<img src="Open_House_Post.jpg" width="1000"/>
+<img src="assets/Open_House_Post.jpg" width="1000"/>
 
 ## What this project does
 - Reads tilt feedback from the BNO055 **gravity vector (X-axis)**.
@@ -38,7 +38,7 @@ A two-wheel self-balancing robot built for a beginner design course (Jan–May 2
   - `Adafruit_Sensor.h` (dependency)
 
 ## 🔌Wiring
-<img src="Wiring_Note.jpg" width="1000" alt="Wiring notes"/>
+<img src="assets/Wiring_Note.jpg" width="1000" alt="Wiring notes"/>
 
 ## Running the code
 1. Install the libraries above in Arduino IDE.
