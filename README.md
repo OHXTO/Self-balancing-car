@@ -62,6 +62,9 @@ Tuning approach we used:
 - Demonstrated at the department exhibition and received positive feedback
 
 ## Team
-- Xingtai Huang
-- Conner Sumner
-- Mingfu Chen
+- Xingtai Huang  [Linkedin](https://www.linkedin.com/in/xingtai-huang/)
+- Conner Sumner  [Linkedin](https://www.linkedin.com/in/connor-sumner1/)
+- Mingfu Chen    [Linkedin](https://www.linkedin.com/in/mingfuchen02/)
+
+## Associate Teaching Professor
+- Jennifer Graham  [Linkedin](https://www.linkedin.com/in/jennifer-graham-436144162/)
